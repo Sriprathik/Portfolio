@@ -92,6 +92,8 @@ h1 { font-family: var(--display); font-weight: 800; font-size: clamp(3rem, 9vw, 
 .project:nth-of-type(even) { border-left-color: var(--sun); }
 .project:hover { transform: translate(-2px, -2px); box-shadow: 9px 9px 0 var(--ink); }
 .project h3 { font-size: 1.4rem; }
+.project-link { display: inline-block; margin-top: 4px; font-weight: 600; }
+.profile-links { margin-top: 24px; font-weight: 600; }
 .tech { color: var(--muted); font-size: .95rem; font-weight: 600; }
 
 /* ACHIEVEMENTS */
